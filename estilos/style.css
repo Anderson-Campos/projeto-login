@@ -74,7 +74,7 @@ form > input[type=submit] {
     font-size: 1em;
     width: 100%;
     height: 40px;
-    background-color: #948380c4;
+    background-color: #bda5a0;
     color: white;
     border: none;
     border-radius: 5px;
@@ -83,7 +83,7 @@ form > input[type=submit] {
 
 form > input[type=submit]:hover{
     background-color: white;
-    border: 1px solid #c0aaa6c4;
+    border: 1px solid #c0aaa6;
     color: #c0aaa6c4;
 }
 
